@@ -9,7 +9,7 @@ This repository contains a collection of YANG modules:
   * Open Daylight open source YANG modules
   * IEEE experimental YANG modules
   * Vendor specific YANG modules
-  * Open source YANG tools
+  * Open source YANG tools testing
 
 ***
 
